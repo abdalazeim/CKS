@@ -5,10 +5,8 @@
 
 - **ScrennShot**:
 
-       ![ScrennShot](https://github.com/abdalazeim/CKS/blob/master/5.PNG)
-     ![ScrennShot](https://github.com/abdalazeim/SMAGP/blob/master/0.PNG)
+     ![ScrennShot](https://github.com/abdalazeim/CKS/blob/master/5.PNG)
      
-         ![ScrennShot](https://github.com/abdalazeim/CKS/blob/master/5.PNG)
 
 
 
